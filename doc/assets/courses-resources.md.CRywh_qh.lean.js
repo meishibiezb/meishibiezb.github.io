@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as r}from"./chunks/framework.CPF8j_D2.js";const d=JSON.parse('{"title":"课程资源","description":"","frontmatter":{"title":"课程资源"},"headers":[],"relativePath":"courses-resources.md","filePath":"courses-resources.md"}'),t={name:"courses-resources.md"};function o(c,a,n,u,i,p){return r(),s("div")}const m=e(t,[["render",o]]);export{d as __pageData,m as default};

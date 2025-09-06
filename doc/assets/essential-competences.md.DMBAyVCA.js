@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.CPF8j_D2.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"essential-competences.md","filePath":"essential-competences.md"}'),a={name:"essential-competences.md"};function n(c,o,r,p,i,m){return s(),t("div")}const d=e(a,[["render",n]]);export{_ as __pageData,d as default};
